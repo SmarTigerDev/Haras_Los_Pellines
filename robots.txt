@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/js/
+Disallow: /assets/css/
+Allow: /
+Sitemap: https://haraslospellines/sitemap.xml
+Sitemap: https://www.haraslospellines/sitemap.xml
